@@ -1,0 +1,78 @@
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.dll.config
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.pdb
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csc.exe
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csc.exe.config
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csc.rsp
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csi.exe
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csi.exe.config
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\csi.rsp
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.AppContext.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Console.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\vbc.exe
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\vbc.exe.config
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\vbc.rsp
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.SqlServer.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\System.Web.Providers.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.xml
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.SqlServer.xml
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\System.Web.Providers.xml
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csprojAssemblyReference.cache
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csproj.CoreCompileInputs.cache
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csproj.CopyComplete
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.dll
+C:\Users\Nisarg.DESKTOP-06LUNKR\source\repos\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.pdb
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.dll.config
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\NisargWeek13Lab.pdb
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.SqlServer.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\System.Web.Providers.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.xml
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\EntityFramework.SqlServer.xml
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\System.Web.Providers.xml
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csprojAssemblyReference.cache
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csproj.CoreCompileInputs.cache
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.csproj.CopyComplete
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.dll
+C:\Users\nisar\Desktop\Motherboard Drivers\NisargWeek13Lab-20191215T201303Z-001\NisargWeek13Lab\NisargWeek13Lab\obj\Debug\NisargWeek13Lab.pdb
